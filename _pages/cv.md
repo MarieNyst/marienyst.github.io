@@ -8,57 +8,113 @@ redirect_from:
 ---
 
 {% include base_path %}
+Here’s your full academic CV in the requested Markdown format:
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+---
 
-Work experience
+**Education**
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Ing. in Computer Science**, Université Technologique de Belfort-Montbéliard (France), 2009–2012
+  * Specialisation: Software Engineering
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **M.Sc. in Applied Mathematics and Computer Science**, Université du Québec à Trois-Rivières (Canada), 2012–2015
+  * Title: *Text Processing Chains: Getting Help from Typed Applicative Systems*
+  * Supervisor: Prof. Ismail Biskri
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Ph.D. in Computer Science**, Universiteit Leiden (The Netherlands), 2017–2026 (expected 2026)
+  * Title: *Sampling strategies in automated algorithm configuration*
+  * Supervisor: Prof. Holger Hoos
+  * Status: Under evaluation, defense expected for May 2026
 
-Publications
+---
+
+**Professional Experience**
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* **Postdoctoral Researcher**, RWTH Aachen University (Germany), 2022–Present
+  * Chair of Artificial Intelligence Methodology
+  * Topics: Automated machine learning, Benchmarking, AI safety
+
+* **Maternity Leave**, March–September 2023
+
+* **Homeschooling**, Several periods during COVID-19 lockdowns, 2020–2021
+
+* **Maternity Break and Relocation**, Moving back to Europe, 2016–2017
+
+---
+
+**Teaching Experience**
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* **Teaching Assistant**, RWTH Aachen University (Germany), 2022–Present
+  * Courses: AI Safety Seminar, Elements of Machine Learning, Introduction to Program Synthesis
+
+* **Teaching Assistant**, Universiteit Leiden (The Netherlands), 2018–2022
+  * Courses: Pre-University College Class, Research Methodology
+
+* **Teaching Assistant**, Université du Québec à Trois-Rivières (Canada), 2013–2015
+  * Courses: Database, Mathematics for Computer Scientists
+
+* **Professional College Teacher**, College Shawinigan (Canada), 2014–2015
+  * Courses: Database, User Interface Design, Web Development, Mobile Development
+
+---
+
+**Supervision**
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* **Erfan Moeini**, Master Thesis, 2024–2025
+  * Title: *Minimizing the Gap between AutoML and Time Series Domain*
+  * Outcome: Paper at AAAI 2026
+
+* **Benedict Gerlach**, Bachelor Thesis, 2023–2024
+  * Title: *Efficiency of Adversarial Defence Mechanisms for Decision Trees*
+  * Outcome: Poster at SAIV 2025
+
+* **Hadar Shavit**, Master Thesis, 2022–2024
+  * Title: *Algorithm Selection for SAT Using Graph Neural Networks*
+
+* **Daniël Fokkinga**, Master Thesis, 2018–2019
+  * Title: *Programming a Stochastic Constraint Optimisation Algorithm, by Optimisation*
+  * Outcome: Workshop publication at IJCAI 2019
+
+---
+
+**Notable Activities and Funding**
 ======
-* Currently signed in to 43 different slack teams
+**Research Visits**
+* **INRIA Rennes**, 2025
+  * Visiting Dr. Théo Matricon, two weeks to build a tool for sustainable competitions
+* **Université de Bordeaux**, 2020
+  * Visiting Prof. Laurent Simon, one week to lay the ground for collaboration
+
+**Seminars**
+* **Dagstuhl Seminar**, 2025
+  * Invited participant, *Competitions and Empirical Evaluations in Automated Reasoning*
+* **Shonan Seminar**, 2025
+  * Invited participant, *Advancing Automated Machine-Learning*
+* **Dagstuhl Seminar**, 2023
+  * Invited participant, *Human-Centered Approaches for Provenance in Automated Data Science*
+* **CLAIRE Symposium**, 2019
+  * Invited participant, transition of CAIRNE (fka CLAIRE)
+
+**Funding**
+* **COST Action roar-net**, 2025
+  * Short-term scientific mission at INRIA Rennes (France)
+* **TAILOR Connectivity Fund**, 2024
+  * Organisation of a one-day workshop
+
+---
+
+**Academic Service**
+======
+**Organizer**
+* **CLAIRE R2Network at the European Summer School on AI (ESSAI)**, 2023, 2024
+* **CLAIRE R2Network Paper Highlight**, 2022–2024
+* **CLAIRE R2Network Launch Event**, 2022
+* **CLAIRE Rising Researcher Network (R2Network)**, Co-founder and Board Member, 2021–Present
+* **LIACS Diversity Committee**, Advisory Committee, 2019–2021
+* **Workshop Moderation**, Erasmus-Descartes Conference, 2018
+* **PhD Seminar**, Co-founder and Organizer, 2017–2018
+* **Study Association**, Various roles, Before 2017
+
+**Reviewer**
+* **Occasional Reviewer**, AAAI, IJCAI, ACM Multimedia, PPSN, IEEE TEVC, Nature ML, Machine Learning Journals, 2020–Present
+* **Editorial Board**, ECML-PKDD Journal Track, 2020–2025
