@@ -12,7 +12,7 @@ redirect_from:
 
 ---
 
-**Education**
+## Education and Professional Experience
 ======
 * Ing. in Computer Science, Université Technologique de Belfort-Montbéliard (France), 2009–2012
   * Specialisation: Software Engineering
@@ -21,28 +21,23 @@ redirect_from:
   * Title: *Text Processing Chains: Getting Help from Typed Applicative Systems*
   * Supervisor: Prof. Ismail Biskri
 
+* _Maternity Break and Relocation, Moving back to Europe, 2016–2017_
+
 * Ph.D. in Computer Science, Universiteit Leiden (The Netherlands), 2017–2026 (expected 2026)
   * Title: *Sampling strategies in automated algorithm configuration*
   * Supervisor: Prof. Holger Hoos
   * Status: Under evaluation, defense expected for May 2026
 
----
+* _Homeschooling, Several periods during COVID-19 lockdowns, 2020–2021_
+* _Maternity Leave, March–September 2023_
 
-**Professional Experience**
-======
 * Postdoctoral Researcher, RWTH Aachen University (Germany), 2022–Present
   * Chair of Artificial Intelligence Methodology
   * Topics: Automated machine learning, Benchmarking, AI safety
-
-* Maternity Leave, March–September 2023
-
-* Homeschooling, Several periods during COVID-19 lockdowns, 2020–2021
-
-* Maternity Break and Relocation, Moving back to Europe, 2016–2017
-
 ---
 
-**Teaching Experience**
+
+## Teaching Experience
 ======
 * Teaching Assistant, RWTH Aachen University (Germany), 2022–Present
   * Courses: AI Safety Seminar, Elements of Machine Learning, Introduction to Program Synthesis
@@ -58,7 +53,7 @@ redirect_from:
 
 ---
 
-**Supervision**
+## Supervision
 ======
 * Erfan Moeini, Master Thesis, 2024–2025
   * Title: *Minimizing the Gap between AutoML and Time Series Domain*
@@ -77,7 +72,7 @@ redirect_from:
 
 ---
 
-**Notable Activities and Funding**
+## Notable Activities and Funding
 ======
 **Research Visits**
 * INRIA Rennes, 2025
@@ -103,9 +98,9 @@ redirect_from:
 
 ---
 
-**Academic Service**
+## Academic Service
 ======
-**Organizer**
+**Organiser**
 * CLAIRE R2Network at the European Summer School on AI (ESSAI), 2023, 2024
 * CLAIRE R2Network Paper Highlight, 2022–2024
 * CLAIRE R2Network Launch Event, 2022
