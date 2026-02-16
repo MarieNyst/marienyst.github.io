@@ -34,7 +34,7 @@ redirect_from:
 * Postdoctoral Researcher, RWTH Aachen University (Germany), 2022–Present
   * Chair of Artificial Intelligence Methodology
   * Topics: Automated machine learning, Benchmarking, AI safety
----
+
 
 
 ## Teaching Experience
@@ -51,7 +51,7 @@ redirect_from:
 * Professional College Teacher, College Shawinigan (Canada), 2014–2015
   * Courses: Database, User Interface Design, Web Development, Mobile Development
 
----
+
 
 ## Supervision
 ======
@@ -70,7 +70,7 @@ redirect_from:
   * Title: *Programming a Stochastic Constraint Optimisation Algorithm, by Optimisation*
   * Outcome: Workshop publication at IJCAI 2019
 
----
+
 
 ## Notable Activities and Funding
 ======
@@ -88,7 +88,7 @@ redirect_from:
 * Dagstuhl Seminar, 2023
   * Invited participant, *Human-Centered Approaches for Provenance in Automated Data Science*
 * CLAIRE Symposium, 2019
-  * Invited participant, transition of CAIRNE (fka CLAIRE)
+  * Invited participant, Symposium on the future and next steps of CAIRNE (fka CLAIRE)
 
 **Funding**
 * COST Action roar-net, 2025
@@ -96,12 +96,13 @@ redirect_from:
 * TAILOR Connectivity Fund, 2024
   * Organisation of a one-day workshop
 
----
+
 
 ## Academic Service
 ======
 **Organiser**
-* CLAIRE R2Network at the European Summer School on AI (ESSAI), 2023, 2024
+* autoML conference, competiton chair, 2026
+* CLAIRE R2Network at the European Summer School on AI (ESSAI), 2023-2025
 * CLAIRE R2Network Paper Highlight, 2022–2024
 * CLAIRE R2Network Launch Event, 2022
 * CLAIRE Rising Researcher Network (R2Network), Co-founder and Board Member, 2021–Present
