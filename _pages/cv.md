@@ -14,27 +14,21 @@ redirect_from:
 
 ## Education and Professional Experience
 ======
-* Ing. in Computer Science, Université Technologique de Belfort-Montbéliard (France), 2009–2012
-  * Specialisation: Software Engineering
-
-* M.Sc. in Applied Mathematics and Computer Science, Université du Québec à Trois-Rivières (Canada), 2012–2015
-  * Title: *Text Processing Chains: Getting Help from Typed Applicative Systems*
-  * Supervisor: Prof. Ismail Biskri
-
-* _Maternity Break and Relocation, Moving back to Europe, 2016–2017_
-
-* Ph.D. in Computer Science, Universiteit Leiden (The Netherlands), 2017–2026 (expected 2026)
-  * Title: *Sampling strategies in automated algorithm configuration*
-  * Supervisor: Prof. Holger Hoos
-  * Status: Under evaluation, defense expected for May 2026
-
-* _Homeschooling, Several periods during COVID-19 lockdowns, 2020–2021_
-* _Maternity Leave, March–September 2023_
 
 * Postdoctoral Researcher, RWTH Aachen University (Germany), 2022–Present
   * Chair of Artificial Intelligence Methodology
   * Topics: Automated machine learning, Benchmarking, AI safety
 
+* Ph.D. in Computer Science, Universiteit Leiden (The Netherlands), 2017–2026
+  * Title: *Sampling strategies in automated algorithm configuration*
+  * Supervisor: Prof. Holger Hoos
+
+* M.Sc. in Applied Mathematics and Computer Science, Université du Québec à Trois-Rivières (Canada), 2012–2015
+  * Title: *Text Processing Chains: Getting Help from Typed Applicative Systems*
+  * Supervisor: Prof. Ismail Biskri
+
+* Ing. in Computer Science, Université Technologique de Belfort-Montbéliard (France), 2009–2012
+  * Specialisation: Software Engineering
 
 
 ## Teaching Experience
@@ -57,7 +51,7 @@ redirect_from:
 ======
 * Erfan Moeini, Master Thesis, 2024–2025
   * Title: *Minimizing the Gap between AutoML and Time Series Domain*
-  * Outcome: Paper at AAAI 2026
+  * Outcome: Published at AAAI 2026
 
 * Benedict Gerlach, Bachelor Thesis, 2023–2024
   * Title: *Efficiency of Adversarial Defence Mechanisms for Decision Trees*
@@ -94,14 +88,15 @@ redirect_from:
 * COST Action roar-net, 2025
   * Short-term scientific mission at INRIA Rennes (France)
 * TAILOR Connectivity Fund, 2024
-  * Organisation of a one-day workshop
+  * Organisation of a one-day workshop on Mental Well-being for PhD students
+  * Co-hosted with the European Summer School on AI
 
 
 
 ## Academic Service
 ======
 **Organiser**
-* autoML conference, competiton chair, 2026
+* AutoML conference, competiton chair, 2026
 * CLAIRE R2Network at the European Summer School on AI (ESSAI), 2023-2025
 * CLAIRE R2Network Paper Highlight, 2022–2024
 * CLAIRE R2Network Launch Event, 2022
